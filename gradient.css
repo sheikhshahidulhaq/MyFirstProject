@@ -1,6 +1,6 @@
 div{
-
     background: #05251f;
+    border: 2px solid black;
     height: 240px;
     background: linear-gradient(to right,#f6f1d3,#648880,#293f50);
 }
